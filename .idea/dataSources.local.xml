@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - poliklinik@localhost" uuid="103623c5-04f3-49df-9fbb-7f39aa753554">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>poliklinik.*</schema-pattern>
+      <default-schemas>poliklinik.*</default-schemas>
+    </data-source>
+  </component>
+</project>
